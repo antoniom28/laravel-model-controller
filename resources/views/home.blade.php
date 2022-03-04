@@ -10,7 +10,6 @@
 <div style="text-align: center">
     <h1> MOVIES </h1>
 </div>
-
 <ul class="section-list">
     @foreach ($lista as $movie)
     <li>
